@@ -1,1 +1,1 @@
-# androidstudio
+- TEMPLATE DO ANDROID STUDIO
